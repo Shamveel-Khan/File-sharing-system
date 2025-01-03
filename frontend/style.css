@@ -21,7 +21,7 @@ body {
     overflow: auto;
     padding: 1rem;
     box-sizing: border-box;
-    background-image: url('laptopBackground.jpg');
+    background-image: url('../images/laptopBackground.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -29,7 +29,7 @@ body {
 
 @media (max-width: 768px) {
     #container {
-        background-image: url('phoneBackground.jpg');
+        background-image: url('../images/phoneBackground.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
